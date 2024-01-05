@@ -61,6 +61,9 @@ sysinfo.txt
 crashlytics-build.properties
 ~*
 .DS_Store
+# ゲーム公開前に日本語化したZenKakuGothicNew-Medium SDF.assetの容量100MB以下に削除
+# ゲーム公開前に日本語化したZenKakuGothicNew-Light SDF.assetの容量100MB以下に削除
+/[Aa]ssets/TextMesh Pro*
 
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
